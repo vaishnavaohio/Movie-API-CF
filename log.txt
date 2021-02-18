@@ -1,69 +1,24 @@
 URL: /
-Timestamp: Sat Feb 13 2021 11:36:04 GMT-0500 (Eastern Standard Time)
+Timestamp: Sat Feb 06 2021 12:44:40 GMT-0700 (Mountain Standard Time)
 
 URL: /
-Timestamp: Sat Feb 13 2021 11:38:07 GMT-0500 (Eastern Standard Time)
+Timestamp: Sat Feb 06 2021 12:45:39 GMT-0700 (Mountain Standard Time)
 
 URL: /
-Timestamp: Sat Feb 13 2021 11:40:03 GMT-0500 (Eastern Standard Time)
-
-URL: /style.css
-Timestamp: Sat Feb 13 2021 11:40:03 GMT-0500 (Eastern Standard Time)
-
-URL: /server.js
-Timestamp: Sat Feb 13 2021 11:40:03 GMT-0500 (Eastern Standard Time)
-
-URL: /favicon.ico
-Timestamp: Sat Feb 13 2021 11:40:03 GMT-0500 (Eastern Standard Time)
+Timestamp: Sat Feb 06 2021 12:48:09 GMT-0700 (Mountain Standard Time)
 
 URL: /
-Timestamp: Sat Feb 13 2021 11:42:40 GMT-0500 (Eastern Standard Time)
+Timestamp: Sat Feb 06 2021 12:49:04 GMT-0700 (Mountain Standard Time)
 
-URL: /style.css
-Timestamp: Sat Feb 13 2021 11:42:40 GMT-0500 (Eastern Standard Time)
+URL: /
+Timestamp: Sat Feb 06 2021 12:59:22 GMT-0700 (Mountain Standard Time)
 
-URL: /server.js
-Timestamp: Sat Feb 13 2021 11:42:40 GMT-0500 (Eastern Standard Time)
+URL: /
+Timestamp: Sat Feb 06 2021 13:01:35 GMT-0700 (Mountain Standard Time)
 
 URL: /favicon.ico
-Timestamp: Sat Feb 13 2021 11:42:40 GMT-0500 (Eastern Standard Time)
+Timestamp: Sat Feb 06 2021 13:01:35 GMT-0700 (Mountain Standard Time)
 
 URL: /documentation
-Timestamp: Sat Feb 13 2021 11:42:52 GMT-0500 (Eastern Standard Time)
-
-URL: /css/styles.css
-Timestamp: Sat Feb 13 2021 11:42:52 GMT-0500 (Eastern Standard Time)
-
-URL: /favicon.ico
-Timestamp: Sat Feb 13 2021 11:42:52 GMT-0500 (Eastern Standard Time)
-
-URL: /documentation
-Timestamp: Sat Feb 13 2021 11:43:39 GMT-0500 (Eastern Standard Time)
-
-URL: /css/styles.css
-Timestamp: Sat Feb 13 2021 11:43:39 GMT-0500 (Eastern Standard Time)
-
-URL: /favicon.ico
-Timestamp: Sat Feb 13 2021 11:43:39 GMT-0500 (Eastern Standard Time)
-
-URL: /documentation
-Timestamp: Sat Feb 13 2021 11:44:00 GMT-0500 (Eastern Standard Time)
-
-URL: /css/styles.css
-Timestamp: Sat Feb 13 2021 11:44:00 GMT-0500 (Eastern Standard Time)
-
-URL: /favicon.ico
-Timestamp: Sat Feb 13 2021 11:44:00 GMT-0500 (Eastern Standard Time)
-
-URL: /ajghakga
-Timestamp: Sat Feb 13 2021 11:44:15 GMT-0500 (Eastern Standard Time)
-
-URL: /style.css
-Timestamp: Sat Feb 13 2021 11:44:15 GMT-0500 (Eastern Standard Time)
-
-URL: /server.js
-Timestamp: Sat Feb 13 2021 11:44:15 GMT-0500 (Eastern Standard Time)
-
-URL: /favicon.ico
-Timestamp: Sat Feb 13 2021 11:44:15 GMT-0500 (Eastern Standard Time)
+Timestamp: Sat Feb 06 2021 13:02:00 GMT-0700 (Mountain Standard Time)
 
