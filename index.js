@@ -29,3 +29,21 @@ app.get("/documentation", (req, res) =>{
 app.listen(8080, () => {
     console.log("your app is listening on port 8080");
 });
+
+// object variable with top movies
+
+
+let movies = [
+  {
+    title: 'Harry Potter and the Sorcerer\'s Stone',
+    author: 'J.K. Rowling'
+  },
+  {
+    title: 'Lord of the Rings',
+    author: 'J.R.R. Tolkien'
+  },
+  {
+    title: 'Twilight',
+    author: 'Stephanie Meyer'
+  }
+];
